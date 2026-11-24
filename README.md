@@ -112,9 +112,9 @@ python baseline/watershed_counter.py --source http://<PHONE_IP>:8080/video
 
 Validation curves for the trained YOLOv8n capsule detector (**mAP@50 = 0.995**, **F1 = 1.00 at conf 0.565**):
 
-| F1-Confidence Curve | Precision-Recall Curve |
-| :---: | :---: |
-| [assets/BoxF1_curve.png] | [assets/BoxPR_curve.png] |
+|                F1-Confidence Curve                |              Precision-Recall Curve               |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| ![assets/BoxF1_curve.png](assets/BoxF1_curve.png) | ![assets/BoxPR_curve.png](assets/BoxPR_curve.png) |
 
 ## Contributors
 
